@@ -1,0 +1,12 @@
+{
+  "name": "animaciones",
+  "displayName": "animaciones",
+  "expo": {
+    "name": "animaciones",
+    "slug": "animaciones",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
